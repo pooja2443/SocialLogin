@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55649774016",
+    "project_id": "social-login-23116",
+    "storage_bucket": "social-login-23116.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55649774016:android:f1848691e1dfac4af80025",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWJcAWvnXeFSkGptOriGZam6e1jhLy2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
